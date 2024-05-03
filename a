@@ -8,3 +8,10 @@ git push -u 원격저장소주소 업로드할브랜치명
 
 git에서 주소를 변수문법 사용가능
 git remote add 변수명 주소
+
+git remote -v // 변수목록
+
+원격 저장소에 있는 파일 받기
+git clone https://주소
+
+웹개발시 필요없는 파일들은 gitignore로 업로드 막기.
