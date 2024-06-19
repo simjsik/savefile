@@ -1,27 +1,9 @@
-![vfb_logo_white](https://github.com/simjsik/savefile/assets/39624384/2c82beb9-7d56-432f-ae5a-94bade6faa6d)VIVE VUE IMG
+
 header -
-![HTC](https://github.com/simjsik/savefile/assets/39624384/08154f04-3e2f-4030-9626-6edb27da72f0)
-![search](https://github.com/simjsik/savefile/assets/39624384/56cc2341-96f1-48e5-97d3-e0e23d7eedcd)
-![backet](https://github.com/simjsik/savefile/assets/39624384/0ee9ff9b-8352-4224-926d-5fb0d3801e62)
-![my](https://github.com/simjsik/savefile/assets/39624384/f57b7f43-e444-4118-9dfd-1072468b00eb)
 
-main - product
-![main_visual](https://github.com/simjsik/savefile/assets/39624384/47013954-16b3-4bef-b0f6-07b39629f410)
-![XR_Elite](https://github.com/simjsik/savefile/assets/39624384/168e6d1c-a5c1-4376-9eda-a11ab403f63a)
-![Tracker](https://github.com/simjsik/savefile/assets/39624384/169fd7d4-85f7-4662-98b5-1d76d1c9a394)
-
-main - promotion
-![promotion_elite](https://github.com/simjsik/savefile/assets/39624384/d1ca997a-86c0-4866-bfad-29b462291a26)
-![promotion_flow](https://github.com/simjsik/savefile/assets/39624384/c2754d81-1007-4d1e-8196-22c7e0178bdc)
-![promotion_focus](https://github.com/simjsik/savefile/assets/39624384/33f18ed4-3628-499f-b639-ad9b6c79b3b7)
-![promotion_cosmos](https://github.com/simjsik/savefile/assets/39624384/26da4c22-a89f-4395-bc5d-8c28700772f4)
-![promotion_pro](https://github.com/simjsik/savefile/assets/39624384/8390ccf0-133d-4871-902d-21fca198142d)
-![promotion_accessory](https://github.com/simjsik/savefile/assets/39624384/bcea73c4-e1b6-4fd4-b666-2d8d2688d24d)
 
 main - side
-![viverse](https://github.com/simjsik/savefile/assets/39624384/1b022379-51d2-4cef-b167-705eddf4b17b)
-![viveport](https://github.com/simjsik/savefile/assets/39624384/ad5519c0-794a-470f-8127-0e5c401583a5)
-![vive_test](https://github.com/simjsik/savefile/assets/39624384/af5c8396-2c55-4b83-a94f-1e05867b7978)
+
 
 footer - sns
 ![location_arrow](https://github.com/simjsik/savefile/assets/39624384/955127d7-5a81-4446-9a38-9a2fbcf98e57)
