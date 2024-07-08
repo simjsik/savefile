@@ -29,6 +29,9 @@ main - side
 ![마닐라](https://github.com/simjsik/savefile/assets/39624384/b79a2312-1eaa-4918-bc4d-ec8eab3df71f)
 ![라푸라푸시티](https://github.com/simjsik/savefile/assets/39624384/86aade06-4359-429f-a252-ee42c766ed4c)
 
+![alertIcon](https://github.com/simjsik/savefile/assets/39624384/d109cea6-c8c2-4ad1-9a3f-68c18e222a8e)
+
+
 footer - sns
 ![location_arrow](https://github.com/simjsik/savefile/assets/39624384/955127d7-5a81-4446-9a38-9a2fbcf98e57)
 [facebook](https://github.com/simjsik/savefile/assets/39624384/096a896c-8a07-425c-91c8-eeefdb9ca829)
