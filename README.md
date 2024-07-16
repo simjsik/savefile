@@ -31,6 +31,50 @@ main - side
 
 ![alertIcon](https://github.com/simjsik/savefile/assets/39624384/d109cea6-c8c2-4ad1-9a3f-68c18e222a8e)
 
+hotel Img-------------
+한국
+- 부산 -
+  ![hotel-6862159_1280](https://github.com/user-attachments/assets/04cdabac-f50f-4041-98ec-727fafb47c01)
+- 서울 -
+  ![water-3292794_960_720](https://github.com/user-attachments/assets/c31abca3-5187-4f6c-91a5-59a309915975)
+- 제주 -
+  ![hotel-1831072_1280](https://github.com/user-attachments/assets/d8f83636-c05f-484b-bca8-bd45f911ebb8)
+- 한강 -
+  ![oria-hotel-4636405_960_720](https://github.com/user-attachments/assets/e220e576-c79b-4ee2-9e0e-d2d8b10fda38)
+
+일본
+- 도쿄 -
+  ![pexels-imageriesnap-12485296](https://github.com/user-attachments/assets/55e1666b-679c-4c68-9984-7068d7fc2ddf)
+- 사이타마 -
+  ![pexels-marcel-kodama-862588-2179424](https://github.com/user-attachments/assets/5fa53ad8-637d-41a0-a960-ef4b047599e6)
+- 오사카 -
+  ![pexels-taryn-elliott-4099354](https://github.com/user-attachments/assets/afaae7c0-b75f-437b-8d50-f8342661f831)
+- 가와구치
+  ![pexels-tiago-447191634-20729091](https://github.com/user-attachments/assets/f669b8d6-45ef-44d3-95a7-3f0a94c17f1e)
+
+태국
+- 파타야
+  ![pexels-orlovamaria-4916534](https://github.com/user-attachments/assets/51a19d48-1b2f-40aa-990d-c84470f707d2)
+
+- 방콕
+  ![pexels-ledana-mance-171529524-20739075](https://github.com/user-attachments/assets/6b585079-ba30-4a26-9cd9-5289808feb58)
+  ![pexels-bianeyre-1560065](https://github.com/user-attachments/assets/a5f31c1e-9943-4d4d-baf4-79156d1a291c)
+
+- 방라뭉
+  ![pexels-deeanacreates-2565222](https://github.com/user-attachments/assets/1aba27b8-8c1d-4062-b2e9-2138757c035c)
+
+필리핀
+- 라푸라푸 시티
+  ![pexels-indigena-studio-1063287587-20753425](https://github.com/user-attachments/assets/20d33713-3677-4ec0-ab94-1c88435dea46)
+
+- 세부
+  ![pexels-irasema-mcallister-29727974-20674401](https://github.com/user-attachments/assets/a7369d2c-a6ca-4da8-9242-984efa7a3f7c)
+  ![pexels-george-zografidis-1705219-20682388](https://github.com/user-attachments/assets/00132f5d-77e2-45c6-a5b4-882ee612f20a)
+
+- 마닐라
+  ![pexels-sophie-otto-774988927-20697916](https://github.com/user-attachments/assets/40ff05d8-0c66-4ad0-8ec4-6780e6e9574e)
+
+
 
 footer - sns
 ![location_arrow](https://github.com/simjsik/savefile/assets/39624384/955127d7-5a81-4446-9a38-9a2fbcf98e57)
