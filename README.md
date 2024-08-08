@@ -32,7 +32,11 @@ main - side
 ![alertIcon](https://github.com/simjsik/savefile/assets/39624384/d109cea6-c8c2-4ad1-9a3f-68c18e222a8e)
 
 hotel Img-------------
+![Hotel](https://github.com/user-attachments/assets/13ab80bf-040f-4313-bf6a-9d7684a28cfa)
+
 한국
+  ![Korea](https://github.com/user-attachments/assets/ba9e4990-9dd4-4815-ab57-813e47051af4)
+
 - 부산 -
   ![hotel-6862159_1280](https://github.com/user-attachments/assets/04cdabac-f50f-4041-98ec-727fafb47c01)
   
@@ -86,6 +90,8 @@ hotel Img-------------
   ![river-sub (1)](https://github.com/user-attachments/assets/ceadaa0c-e083-4aab-88b1-16737a1643cf)
 
 일본
+![JapanBanner](https://github.com/user-attachments/assets/a484261e-e94e-477a-ba5d-f555389cac55)
+
 ![japan (4)](https://github.com/user-attachments/assets/f5c88ac2-a582-47bc-a172-200b3647f8f2)
 ![japan (3)](https://github.com/user-attachments/assets/ae264e4e-a3e9-4a49-8bcd-0d6f620f0756)
 ![japan (2)](https://github.com/user-attachments/assets/242056f3-571b-4237-a03c-0f5a4fca931b)
@@ -99,9 +105,9 @@ hotel Img-------------
   ![pexels-huuhuynh-17299144](https://github.com/user-attachments/assets/c1aa7599-3f69-4b49-bd8c-702fa30fac32)
   ![pexels-amelia-hallsworth-5461604](https://github.com/user-attachments/assets/60cdce4d-3281-4c05-897e-674f64c3af16)
 
-- 사이타마 -
-  ![pexels-marcel-kodama-862588-2179424](https://github.com/user-attachments/assets/5fa53ad8-637d-41a0-a960-ef4b047599e6)
-  
+- 삿포로 -
+  ![sapporo](https://github.com/user-attachments/assets/b53eeb44-caf5-4e64-af3c-6b8223a24aee)
+
   ![pexels-yurika-4151484](https://github.com/user-attachments/assets/978d7e99-5662-45f4-badf-2d0e7640d173)
   ![pexels-vika-glitter-392079-3315291](https://github.com/user-attachments/assets/7f92dc55-44a9-4ba3-9907-90205b9d3bd1)
   ![pexels-neverlandphotos-5028910](https://github.com/user-attachments/assets/65e4f994-6c67-4275-af2b-d5a13bfa3567)
@@ -126,6 +132,8 @@ hotel Img-------------
 
 
 태국
+![ThaiBanner](https://github.com/user-attachments/assets/b1f95f41-0626-455a-96f1-5f802006e8a3)
+
 ![thailand (4)](https://github.com/user-attachments/assets/26ad5c1f-d545-4d11-91a2-05c17d73e2b5)
 ![thailand (3)](https://github.com/user-attachments/assets/f69f6d49-6e6e-4b4d-8ab4-771765d10d64)
 ![thailand (2)](https://github.com/user-attachments/assets/5400298d-c56a-4420-8ecc-db3657b51b7c)
@@ -161,6 +169,8 @@ hotel Img-------------
   ![chao (1)](https://github.com/user-attachments/assets/bd361f76-ae32-4723-bb1d-c560c06bb89c)
 
 필리핀
+![PhilBanner](https://github.com/user-attachments/assets/bdc2577c-2cfa-45ec-b562-ab85641f07e2)
+
 ![phili (4)](https://github.com/user-attachments/assets/01d6031c-e1c2-4162-a744-e71a910797f2)
 ![phili (3)](https://github.com/user-attachments/assets/f71d8cd0-974c-4da4-af5f-2f974619cffe)
 ![phili (2)](https://github.com/user-attachments/assets/aee8d68d-01c7-4d65-a4ce-883a55de5baf)
@@ -220,29 +230,45 @@ Room Image--
 ![bed (1)](https://github.com/user-attachments/assets/a2fe67a3-53c2-4e1e-8d4b-9497699ac830)
 
 Icon ---
+roomIcon
 ![smoke](https://github.com/user-attachments/assets/b8bc9984-d829-425e-8372-1a508edae08e)
 ![roomsize_1](https://github.com/user-attachments/assets/1aec627a-9f05-48b6-8a6f-83b5ec578ef6)
 ![wifi](https://github.com/user-attachments/assets/4d91435c-9a75-46d1-a2d4-0de4daa91f47)
 ![aircon_1](https://github.com/user-attachments/assets/608bc0be-d855-4b55-92b5-180bc16998e4)
 ![bathroom_1](https://github.com/user-attachments/assets/b7006f8e-8147-4e36-8cc5-30da9ae5c15c)
-
 ![toothset_1](https://github.com/user-attachments/assets/a378b383-70ee-4951-99ca-c482707d4e5b)
 (![hair_1](https://github.com/user-attachments/assets/f96419da-2966-4d14-8bb0-b3dc58fc98e3)
 ![showercap_1](https://github.com/user-attachments/assets/d8d5b869-c219-435f-9b57-cd8dae96ffe4)
 ![shaver](https://github.com/user-attachments/assets/2db709fa-0674-4a9a-889f-4df94a7b74f9)
 ![soap_1](https://github.com/user-attachments/assets/feba92ea-320b-4e03-8250-bd648bcdce33)
 
-
 ![twinbed](https://github.com/user-attachments/assets/87cd6430-bb0e-4278-9ea8-d7b0fd46e3e7)
 ![singlebed](https://github.com/user-attachments/assets/597eee21-7f0a-4de9-839b-492e8b4907ce)
 ![child_1](https://github.com/user-attachments/assets/84828adf-63bf-49f9-84e3-04966d271420)
 
+subIcon
 ![Close](https://github.com/user-attachments/assets/bdc11b7c-1801-45da-8939-f1ae58eb3342)
 ![check_1](https://github.com/user-attachments/assets/8624b990-f132-4195-b44d-e2286eb84df7)
 ![star](https://github.com/user-attachments/assets/17543e67-901c-4023-a3d6-12a0cec324b5)
 ![locationIcon_1](https://github.com/user-attachments/assets/b7a9fa5d-e126-47b2-835f-ae85545dbd2b)
 ![searchBox](https://github.com/user-attachments/assets/5a113d39-96e0-4f75-8a5f-4b84cc9ede62)
+![reactbadge](https://github.com/user-attachments/assets/1f28fa14-1106-45c4-b2a2-5c51615057d2)
 
+SNS Icon
+![insta](https://github.com/user-attachments/assets/db12b0be-a441-49c2-a043-c8a0e9938ee2)
+![facebook](https://github.com/user-attachments/assets/8452a273-0ba4-451a-b558-78dba16f8562)
+![discord](https://github.com/user-attachments/assets/616cb88b-fea5-4fdc-bbf8-f2dc572cc819)
+![youtube](https://github.com/user-attachments/assets/658012c7-e5d9-4604-bfe9-b8e3722adf57)
+![tiktok](https://github.com/user-attachments/assets/ff3c657e-3f5f-44b4-82ad-87b443e95080)
+![twitter](https://github.com/user-attachments/assets/b12f5c62-693e-442f-80e3-290b05f8c9b9)
+
+Pay  Icon
+![bc](https://github.com/user-attachments/assets/67a70d52-c340-4db3-8ee1-44552ce66516)
+![np](https://github.com/user-attachments/assets/ad809f19-8018-408d-a86e-14b836c13a10)
+![kp](https://github.com/user-attachments/assets/c66236d8-a297-43b5-b16a-ad7056c3bce8)
+![kb](https://github.com/user-attachments/assets/7ec88d65-ef34-4f8e-a92d-b54a08b8c93b)
+![hd](https://github.com/user-attachments/assets/8be85846-bb40-4b0d-8931-36082be66759)
+![samsung](https://github.com/user-attachments/assets/951a97ad-5075-4665-9cdc-43a90c6c28d3)
 
 ![MapBg](https://github.com/user-attachments/assets/91ab44e5-9747-461b-a0d0-a0e3e8989ea9)
 
@@ -250,6 +276,8 @@ Event-----
 ![event1](https://github.com/user-attachments/assets/cad73db3-6c69-47f2-a6cc-e6abcdf88419)
 ![event2](https://github.com/user-attachments/assets/0308278b-1b30-4c17-83cb-0a333bac5d0b)
 ![event3](https://github.com/user-attachments/assets/c7a7740f-75cc-4b17-859f-b390df4ffc80)
+![bg](https://github.com/user-attachments/assets/b194c6ef-39e4-44c8-9478-4257c1bd23cd)
+![bigEvent](https://github.com/user-attachments/assets/cb2d0c95-f5ec-489c-a308-75512ff697f2)
 
 
 
