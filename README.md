@@ -251,8 +251,12 @@ subIcon
 ![check_1](https://github.com/user-attachments/assets/8624b990-f132-4195-b44d-e2286eb84df7)
 ![star](https://github.com/user-attachments/assets/17543e67-901c-4023-a3d6-12a0cec324b5)
 ![locationIcon_1](https://github.com/user-attachments/assets/b7a9fa5d-e126-47b2-835f-ae85545dbd2b)
-![searchBox](https://github.com/user-attachments/assets/5a113d39-96e0-4f75-8a5f-4b84cc9ede62)
 ![reactbadge](https://github.com/user-attachments/assets/1f28fa14-1106-45c4-b2a2-5c51615057d2)
+![prev_w_1](https://github.com/user-attachments/assets/07969943-db2a-4af3-96d1-4d66f8d1a604)
+![next_w_1](https://github.com/user-attachments/assets/88bc4b88-e958-4478-9dc1-1579810ec7c2)
+![searchBox_1](https://github.com/user-attachments/assets/a3e6154c-954e-4df2-9b8c-adf3a8160bcb)
+
+![MainBg](https://github.com/user-attachments/assets/315be9e6-20cb-411e-8c8d-6e394d2c1732)
 
 SNS Icon
 ![insta](https://github.com/user-attachments/assets/db12b0be-a441-49c2-a043-c8a0e9938ee2)
