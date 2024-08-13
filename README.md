@@ -250,6 +250,7 @@ roomIcon
 ![singlebed](https://github.com/user-attachments/assets/597eee21-7f0a-4de9-839b-492e8b4907ce)
 ![child_1](https://github.com/user-attachments/assets/84828adf-63bf-49f9-84e3-04966d271420)
 
+
 subIcon
 ![Close](https://github.com/user-attachments/assets/bdc11b7c-1801-45da-8939-f1ae58eb3342)
 ![check_1](https://github.com/user-attachments/assets/8624b990-f132-4195-b44d-e2286eb84df7)
@@ -261,6 +262,23 @@ subIcon
 ![searchBox_1](https://github.com/user-attachments/assets/a3e6154c-954e-4df2-9b8c-adf3a8160bcb)
 
 ![MainBg](https://github.com/user-attachments/assets/315be9e6-20cb-411e-8c8d-6e394d2c1732)
+
+![Locat](https://github.com/user-attachments/assets/8e082ae3-76e8-4f06-b275-a153b762c651)
+![Brunch](https://github.com/user-attachments/assets/dab685c4-dc07-42a0-ace3-4e2fb6441c65)
+![Activity](https://github.com/user-attachments/assets/f408a3b1-7030-4c80-82f4-73bebd9d5ff7)
+![View](https://github.com/user-attachments/assets/112d1838-61ce-4264-9afc-d4ff3cc4a897)
+![Park_1](https://github.com/user-attachments/assets/d91a46ff-ac86-4cba-8565-e69c45855aa2)
+![피트니스](https://github.com/user-attachments/assets/fc2db4fc-7987-49bb-b02f-491d7b34259c)
+![짐](https://github.com/user-attachments/assets/71c124dc-59e2-46d0-9f43-d480dbeb7e4e)
+![식당](https://github.com/user-attachments/assets/d1ca3f6e-59e7-4d86-b1ba-bd23c12a6b93)
+![회의](https://github.com/user-attachments/assets/a294ca82-7581-42ae-b022-9fd47d97f998)
+![photo_1](https://github.com/user-attachments/assets/2583799b-7e06-4917-9b81-4a771a42b375)
+![no](https://github.com/user-attachments/assets/6cea69a3-26c0-43c5-b01f-c6ed61c96b49)
+![offline](https://github.com/user-attachments/assets/dbd56dbd-6720-41de-90cf-8110fa43a50d)
+![online](https://github.com/user-attachments/assets/d6d7af89-6a5f-4081-b0d2-eb49b507040e)
+![TopView](https://github.com/user-attachments/assets/9d2195f9-b2f1-4a1d-bccd-b221e3a8ea06)
+![TopView_W](https://github.com/user-attachments/assets/04a6269e-348a-4088-9289-ea39d9525e8d)
+
 
 SNS Icon
 ![insta](https://github.com/user-attachments/assets/db12b0be-a441-49c2-a043-c8a0e9938ee2)
