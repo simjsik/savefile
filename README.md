@@ -260,6 +260,7 @@ subIcon
 ![prev_w_1](https://github.com/user-attachments/assets/07969943-db2a-4af3-96d1-4d66f8d1a604)
 ![next_w_1](https://github.com/user-attachments/assets/88bc4b88-e958-4478-9dc1-1579810ec7c2)
 ![searchBox_1](https://github.com/user-attachments/assets/a3e6154c-954e-4df2-9b8c-adf3a8160bcb)
+![Close_B](https://github.com/user-attachments/assets/136ee635-423c-4c4b-8c89-505ea885fee6)
 
 ![MainBg](https://github.com/user-attachments/assets/315be9e6-20cb-411e-8c8d-6e394d2c1732)
 
