@@ -256,14 +256,20 @@ roomIcon
 
 subIcon
 ![Close](https://github.com/user-attachments/assets/bdc11b7c-1801-45da-8939-f1ae58eb3342)
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54 54"><defs><style>.cls-1,.cls-2{fill:none;stroke:#fff;stroke-width:2px;}.cls-1{stroke-miterlimit:10;}.cls-2{stroke-linecap:round;stroke-linejoin:round;}</style></defs><g id="레이어_2" data-name="레이어 2"><g id="레이어_1-2" data-name="레이어 1"><rect class="cls-1" x="1" y="1" width="52" height="52" rx="26"/><line class="cls-2" x1="17.1" y1="17.1" x2="36.9" y2="36.9"/><line class="cls-2" x1="36.9" y1="17.1" x2="17.1" y2="36.9"/></g></g></svg>
+
 ![check_1](https://github.com/user-attachments/assets/8624b990-f132-4195-b44d-e2286eb84df7)
 ![star](https://github.com/user-attachments/assets/17543e67-901c-4023-a3d6-12a0cec324b5)
 ![locationIcon_1](https://github.com/user-attachments/assets/b7a9fa5d-e126-47b2-835f-ae85545dbd2b)
 ![reactbadge](https://github.com/user-attachments/assets/1f28fa14-1106-45c4-b2a2-5c51615057d2)
-![prev_w_1](https://github.com/user-attachments/assets/07969943-db2a-4af3-96d1-4d66f8d1a604)
-![next_w_1](https://github.com/user-attachments/assets/88bc4b88-e958-4478-9dc1-1579810ec7c2)
+![prev_long_w_1](https://github.com/user-attachments/assets/07969943-db2a-4af3-96d1-4d66f8d1a604)
+![next_long_w_1](https://github.com/user-attachments/assets/88bc4b88-e958-4478-9dc1-1579810ec7c2)
 ![searchBox_1](https://github.com/user-attachments/assets/a3e6154c-954e-4df2-9b8c-adf3a8160bcb)
 ![Close_B](https://github.com/user-attachments/assets/136ee635-423c-4c4b-8c89-505ea885fee6)
+![location_circle](https://github.com/user-attachments/assets/a27f39bf-e1d1-446e-b8f9-ff554ed96d21)
+
+![prev](https://github.com/user-attachments/assets/f2c7114e-69e3-4448-9f82-00ea574600af)
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18"><defs><style>.cls-1,.cls-2{fill:none;}.cls-2{stroke:#201f22;stroke-linecap:round;stroke-linejoin:round;}</style></defs><g id="레이어_2" data-name="레이어 2"><g id="레이어_1-2" data-name="레이어 1"><rect class="cls-1" width="18" height="18"/><polyline class="cls-2" points="11.57 3.87 6.43 9 11.56 14.13"/></g></g></svg>
 
 ![MainBg](https://github.com/user-attachments/assets/315be9e6-20cb-411e-8c8d-6e394d2c1732)
 
