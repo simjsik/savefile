@@ -288,11 +288,12 @@ subIcon
 ![모바일로그인](https://github.com/user-attachments/assets/a5573371-37d5-4707-9ccd-be079f9eebd2)
 ![모바일로그인아이콘2](https://github.com/user-attachments/assets/a9e89e85-8099-4848-a407-0c6ff86aa1cc)
 ![모바일로그인아이콘1](https://github.com/user-attachments/assets/414034fb-a9d9-4842-b8fb-ba1318452ca1)
+![복사](https://github.com/user-attachments/assets/a120708e-9a14-4fd7-85b5-e1dcbc3185a1)
+![예약확인](https://github.com/user-attachments/assets/9bf7f21d-532c-43a0-b886-dc614180c4f9)
 
 
 
 ![prev](https://github.com/user-attachments/assets/f2c7114e-69e3-4448-9f82-00ea574600af)
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18"><defs><style>.cls-1,.cls-2{fill:none;}.cls-2{stroke:#201f22;stroke-linecap:round;stroke-linejoin:round;}</style></defs><g id="레이어_2" data-name="레이어 2"><g id="레이어_1-2" data-name="레이어 1"><rect class="cls-1" width="18" height="18"/><polyline class="cls-2" points="11.57 3.87 6.43 9 11.56 14.13"/></g></g></svg>
 
 ![MainBg](https://github.com/user-attachments/assets/315be9e6-20cb-411e-8c8d-6e394d2c1732)
 
