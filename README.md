@@ -1,6 +1,7 @@
 header -
 ![logo_1](https://github.com/simjsik/savefile/assets/39624384/70f2dcbd-dd21-4d16-9aa3-fa0756ecc062)
 ![logo_small](https://github.com/user-attachments/assets/71aa6b25-f221-4d95-b1fc-a65e4397cefa)
+![로고텍스트흰색_1](https://github.com/user-attachments/assets/12201488-933f-47f1-8bd6-e106f0f29720)
 
 
 ![Logo_black_3](https://github.com/user-attachments/assets/22fd7020-dff8-4f04-91cf-f2da5a7c4911)
